@@ -17,7 +17,7 @@ window.APP_CONFIG = {
     perusahaan: 'PD. BINTANG TERANG',          // nama bisnis di header invoice (kosong = pakai nama aplikasi)
     alamat: 'Jl. Pengairan No. 19 RT. 18/04, Pesayangan, Talang, Tegal',
     telepon: '0857-4222-1062/0858-4226-6636',
-    logoUrl: '',             // kosong = logo inisial otomatis
+    logoUrl: 'https://hmdjahsyscdcunqxpbbp.supabase.co/storage/v1/object/public/app-assets/logo/logo-1792088362585.png',             // kosong = logo inisial otomatis
     faviconUrl: '',          // kosong = pakai logo
     primaryColor: '#16a34a',
     secondaryColor: '#f97316',
