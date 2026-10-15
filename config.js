@@ -12,11 +12,11 @@ window.APP_CONFIG = {
   SUPABASE_ANON_KEY: 'sb_publishable_R3xhvE9DMN-3C7vu45nb7Q_JVYB1nv8',
 
   BRAND: {
-    appName: 'Manajemen Keuangan Produksi',
-    tagline: 'Stok, transaksi & biaya produksi',
-    perusahaan: '',          // nama bisnis di header invoice (kosong = pakai nama aplikasi)
-    alamat: '',
-    telepon: '',
+    appName: 'BINTANG TERANG',
+    tagline: 'Industrial Manajemen',
+    perusahaan: 'PD. BINTANG TERANG',          // nama bisnis di header invoice (kosong = pakai nama aplikasi)
+    alamat: 'Jl. Pengairan No. 19 RT. 18/04, Pesayangan, Talang, Tegal',
+    telepon: '0857-4222-1062/0858-4226-6636',
     logoUrl: '',             // kosong = logo inisial otomatis
     faviconUrl: '',          // kosong = pakai logo
     primaryColor: '#16a34a',
