@@ -19,9 +19,9 @@ window.APP_CONFIG = {
     telepon: '0857-4222-1062/0858-4226-6636',
     logoUrl: 'https://hmdjahsyscdcunqxpbbp.supabase.co/storage/v1/object/public/app-assets/logo/logo-1792088362585.png',             // kosong = logo inisial otomatis
     faviconUrl: '',          // kosong = pakai logo
-    primaryColor: '#16a34a',
-    secondaryColor: '#f97316',
-    sidebarColor: '#151a35',
-    poweredBy: ''            // mis. 'Fix Projects' untuk menampilkan "Didukung oleh ..." di halaman login
+    primaryColor: '#B82601',
+    secondaryColor: '#813772',
+    sidebarColor: '#062F4F',
+    poweredBy: 'FIX PROJECT'            // mis. 'Fix Projects' untuk menampilkan "Didukung oleh ..." di halaman login
   }
 };
